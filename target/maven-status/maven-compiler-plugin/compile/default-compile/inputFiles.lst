@@ -1,0 +1,7 @@
+/Users/jocs/IdeaProjects/api/src/main/java/ca/renocompass/api/Entity/Student.java
+/Users/jocs/IdeaProjects/api/src/main/java/ca/renocompass/api/Dao/MongoStudentDaoDatabase.java
+/Users/jocs/IdeaProjects/api/src/main/java/ca/renocompass/api/Controller/StudentController.java
+/Users/jocs/IdeaProjects/api/src/main/java/ca/renocompass/api/APIApplication.java
+/Users/jocs/IdeaProjects/api/src/main/java/ca/renocompass/api/Service/StudentService.java
+/Users/jocs/IdeaProjects/api/src/main/java/ca/renocompass/api/Dao/StudentDao.java
+/Users/jocs/IdeaProjects/api/src/main/java/ca/renocompass/api/Dao/FakeStudentDaoDatabase.java
